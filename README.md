@@ -276,4 +276,4 @@ The character detail page also fetches asynchronously and displays loading/error
 / and /characters — browse and search characters
 /character/:id — view a character’s details
 /favorites — view saved favorites
->>>>>>> 68974d738aefc7ff727400bdda49f320adebaa5b
+ 68974d738aefc7ff727400bdda49f320adebaa5b
