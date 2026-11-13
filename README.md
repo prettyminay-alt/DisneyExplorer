@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Disney Explorer
 
 Disney Explorer is a responsive, client-side React application that allows users to explore Disney characters and their appearances using the public Disney API.
